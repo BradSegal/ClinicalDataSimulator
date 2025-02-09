@@ -149,9 +149,9 @@ If you use this simulator in your research, please cite:
 ```bibtex
 @software{clinical_data_simulator,
     title = {Multi-Site Clinical Data Simulator},
-    author = {Your Name},
+    author = {Bradley Segal},
     year = {2024},
-    url = {https://github.com/yourusername/ClinicalDataSimulator}
+    url = {https://github.com/Brad Segal/ClinicalDataSimulator}
 }
 ```
 
